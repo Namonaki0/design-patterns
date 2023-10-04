@@ -1,9 +1,9 @@
-##DESIGN PATTERNS
-#####Proven solution to solve design problems.
+## DESIGN PATTERNS
+##### Proven solution to solve design problems.
 
 > 3 Basic Types: **creational, structural and behavioral**.
 
-###Creational
+### Creational
 
 - Abstract Factory
 - Builder
@@ -12,7 +12,7 @@
 - Prototype
 - Singleton
 
-###Structural
+### Structural
 
 - Adapter
 - Bridge
@@ -22,7 +22,7 @@
 - Flyweight
 - Proxy
 
-###Behavioral
+### Behavioral
 
 - Chain of Responsibility
 - Command
