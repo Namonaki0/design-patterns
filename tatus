@@ -1,0 +1,67 @@
+[33mcommit 05f9b6700bf2ca40c6aa99634fbf1ae1b9122fb5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Andre <andreferreira@live.co.uk>
+Date:   Thu Nov 9 11:48:35 2023 +0000
+
+    updating file
+
+[33mcommit a1dc98d36187f7869f8c73644f528dcee3e33a2f[m
+Author: Andre <andreferreira@live.co.uk>
+Date:   Thu Nov 9 11:46:22 2023 +0000
+
+    decorator pattern
+
+[33mcommit db693925e6fbe42ef4af7f3eda2c52b60f660fcc[m
+Author: Andre <andreferreira@live.co.uk>
+Date:   Thu Nov 9 11:44:41 2023 +0000
+
+    adapter pattern
+
+[33mcommit 0212d9e060b64ef65f2428f8f8e8469b92cd5985[m
+Author: Andre <andreferreira@live.co.uk>
+Date:   Wed Nov 1 10:41:15 2023 +0000
+
+    more examples of design patterns
+
+[33mcommit e681a48c8aaab7ac758c1eb5dc4f3f40533d3ea7[m
+Merge: 4a29f74 6dd2b23
+Author: Andre <andreferreira@live.co.uk>
+Date:   Wed Nov 1 10:39:16 2023 +0000
+
+    Merge branch 'main' of https://github.com/Namonaki0/design-patterns
+
+[33mcommit 4a29f74349bea263a1d959dcbb61745e6397f19e[m
+Author: Andre <andreferreira@live.co.uk>
+Date:   Fri Oct 6 12:20:16 2023 +0100
+
+    Factory pattern
+
+[33mcommit 6dd2b23e69d196ae5a9fd17c89ce58cec90893a3[m
+Author: Andre <andreferreira@live.co.uk>
+Date:   Fri Oct 6 12:20:16 2023 +0100
+
+    factory pattern
+
+[33mcommit ed61fac838f0450b5f66a2764d5fa6597cdb2720[m
+Merge: 0732712 fdf1a9e
+Author: Andre <andreferreira@live.co.uk>
+Date:   Thu Oct 5 10:58:36 2023 +0100
+
+    Merge branch 'main' of https://github.com/Namonaki0/design-patterns
+
+[33mcommit 07327122f388670f61847b24c380c334bdcb7c43[m
+Author: Andre <andreferreira@live.co.uk>
+Date:   Thu Oct 5 10:58:21 2023 +0100
+
+    Module pattern
+
+[33mcommit fdf1a9e58647fe8bfea241bb3db9303dea57e496[m
+Author: Andre Ferreira <49961945+Namonaki0@users.noreply.github.com>
+Date:   Wed Oct 4 12:10:47 2023 +0100
+
+    Update DESIGN_PATTERNS.md
+
+[33mcommit 77c40b55d026944030abdf5bb3af96f321c6bfda[m
+Author: Andre <andreferreira@live.co.uk>
+Date:   Wed Oct 4 12:10:15 2023 +0100
+
+    Singleton example

@@ -1,5 +1,3 @@
-// Command Pattern
-
 // Memento Pattern
 
 // Composite Pattern
