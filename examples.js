@@ -1,3 +1,0 @@
-// Composite Pattern
-
-// Strategy Pattern
