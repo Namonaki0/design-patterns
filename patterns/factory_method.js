@@ -1,4 +1,4 @@
-//? Factory Pattern
+//? Factory Method Pattern
 // Parent class or interface
 class Product {
   constructor(name) {
