@@ -9,7 +9,7 @@ class Product {
     return this.name;
   }
 
-  // Additional methods can be added here
+  // Additional methods
 }
 
 // Concrete product classes

@@ -7,7 +7,6 @@ function ObjectPool(maxSize) {
 
 ObjectPool.prototype.create = function () {
   return {
-    // You can replace this with your object creation logic
     used: false,
     data: null,
   };
