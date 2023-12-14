@@ -1,4 +1,5 @@
 ## DESIGN PATTERNS
+
 ##### Proven solution to solve design problems.
 
 > 3 Basic Types: **creational, structural and behavioral**.
@@ -7,7 +8,9 @@
 
 - Abstract Factory
 - Builder
+- Constructor
 - Factory Method
+- Module
 - Object Pool
 - Prototype
 - Singleton
